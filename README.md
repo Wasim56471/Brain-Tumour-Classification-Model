@@ -108,7 +108,7 @@ The app is designed to accept **brain MRI-like grayscale inputs** and reject unr
 ```bash
 pip install -r requirements.txt
 
-### 2) Run the Streamlit app
+Run the Streamlit app
 
 Make sure the following files are in the **same folder**:
 
@@ -120,4 +120,3 @@ Then open **Anaconda Prompt** (or any terminal), navigate to that folder, and ru
 
 ```bash
 streamlit run brain_tumor_detection.py
-
